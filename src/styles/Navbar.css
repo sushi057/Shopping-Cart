@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: -24px;
-  padding: 12px;
+  padding: 5px 20px;
+  border-bottom: 2px solid;
 }
 
 .logo-title {
@@ -12,17 +12,23 @@
 }
 
 .right-side {
-  font-size: 18px;
+  font-size: 20px;
   display: flex;
   gap: 32px;
-  padding-right: 24px;
-
+  padding-right: 52px;
+  letter-spacing: 3px;
 }
 
-img {
-  height: 154px;
+.main-logo {
+  height: 104px;
+  padding-right: 20px;
 }
 
 a {
   text-decoration: none;
+  color: black;
+}
+
+a::hover {
+  color: #fff2f2;
 }

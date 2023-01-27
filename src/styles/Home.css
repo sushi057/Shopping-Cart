@@ -1,0 +1,18 @@
+.shoe-display {
+  display: flex;
+  place-content: center;
+  text-align: center;
+  position: relative;
+  border: 1px solid;
+}
+
+.shoe-display img {
+  width: 60%;
+}
+
+.shop-btn {
+  position: absolute;
+  bottom: 16px;
+  font-size: 24px;
+  padding: 8px;
+}

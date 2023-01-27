@@ -9,10 +9,10 @@ function Navbar() {
       <div className="navbar">
         <div className="left-side">
           <Link to="/" className="logo-title">
-            <img src={Logo} alt="logo" />
-            <div className="titile">
-              <h1>Sneaker</h1>
-              <h1>Point</h1>
+            <img src={Logo} alt="logo" className="main-logo"/>
+            <div className="title">
+              <h2>SNEAKER</h2>
+              <h1>POINT</h1>
             </div>
           </Link>
         </div>
