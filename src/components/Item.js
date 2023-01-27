@@ -1,11 +1,11 @@
 import React from "react";
 
-function Item(name, image, price) {
+function Item({ name, image, price }) {
   return (
     <div>
-      <img src={image} alt={image} />
+      <div style={{ backgroundImage: `url(${image})` }}></div>
       <h3>{name}</h3>
-      <h4>{price}</h4>
+      <h4>${price}</h4>
     </div>
   );
 }
