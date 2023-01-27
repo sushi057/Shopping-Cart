@@ -1,16 +1,27 @@
 import React from "react";
 import "../styles/Navbar.css";
 import Logo from "../assets/logo.png";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
     <>
       <div className="navbar">
         <div className="left-side">
-          <img src={Logo} alt="logo" />
-          <h1>Sneaker Point</h1>
+          <Link to="/" className="logo-title">
+            <img src={Logo} alt="logo" />
+            <div className="titile">
+              <h1>Sneaker</h1>
+              <h1>Point</h1>
+            </div>
+          </Link>
         </div>
-        <div className="right-side"></div>
+        <div className="right-side">
+          <Link to="/men">Men</Link>
+          <Link to="/women">Women</Link>
+          <Link to="/kids">Kids</Link>
+          <Link to="/user">User</Link>
+        </div>
       </div>
     </>
   );

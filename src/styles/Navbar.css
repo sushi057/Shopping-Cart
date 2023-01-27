@@ -1,8 +1,28 @@
-.left-side {
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -24px;
+  padding: 12px;
+}
+
+.logo-title {
   display: flex;
   align-items: center;
 }
 
+.right-side {
+  font-size: 18px;
+  display: flex;
+  gap: 32px;
+  padding-right: 24px;
+
+}
+
 img {
   height: 154px;
+}
+
+a {
+  text-decoration: none;
 }
