@@ -2,7 +2,7 @@ import React from "react";
 
 function Item({ name, image, price }) {
   return (
-    <div>
+    <div className="shoe-item">
       <div style={{ backgroundImage: `url(${image})` }}></div>
       <h3>{name}</h3>
       <h4>${price}</h4>

@@ -20,8 +20,9 @@
 }
 
 .main-logo {
-  height: 104px;
+  height: 80px;
   padding-right: 20px;
+  padding-left: 14px;
 }
 
 a {

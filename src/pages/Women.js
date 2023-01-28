@@ -1,11 +1,12 @@
 import React from "react";
 import Item from "../components/Item";
 import { WomenShoeList } from "../helpers/womensShoesList";
+import "../styles/Item.css";
 
 function Women() {
   return (
-    <div className="womens-shoes">
-      <div className="menu-title">Sneakers for Women</div>
+    <div className="main-section">
+      <div className="page-title">Sneakers for Women</div>
       <div className="shoes-list">
         {WomenShoeList.map((shoe, key) => {
           return (
