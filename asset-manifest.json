@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.aaf6190c.css",
+    "main.js": "/Shopping-Cart/static/js/main.3d749f48.js",
+    "static/media/home_shoes.jpg": "/Shopping-Cart/static/media/home_shoes.124a9df229cc25eec4df.jpg",
+    "static/media/logo.png": "/Shopping-Cart/static/media/logo.86b2917983d590867212.png",
+    "static/media/asics.webp": "/Shopping-Cart/static/media/asics.a797659021c999b3da6d.webp",
+    "static/media/nb_2002r.webp": "/Shopping-Cart/static/media/nb_2002r.53cf68dfdf726657096a.webp",
+    "static/media/nb_990.webp": "/Shopping-Cart/static/media/nb_990.0b08eb4e91fb22000c25.webp",
+    "static/media/jordan1.webp": "/Shopping-Cart/static/media/jordan1.8fd14231d601b84daf63.webp",
+    "static/media/vans.webp": "/Shopping-Cart/static/media/vans.d12bd7ce9041d0a8872b.webp",
+    "static/media/yeezy.webp": "/Shopping-Cart/static/media/yeezy.adb981ccf480d7c48d1d.webp",
+    "static/media/addidas_gazelle.webp": "/Shopping-Cart/static/media/addidas_gazelle.5aa125df1c397aa803be.webp",
+    "static/media/gazelle.webp": "/Shopping-Cart/static/media/gazelle.6be9bc912f15e853fe00.webp",
+    "static/media/fastbreak.webp": "/Shopping-Cart/static/media/fastbreak.2c13ef6884762be7a55d.webp",
+    "static/media/rick_owens.webp": "/Shopping-Cart/static/media/rick_owens.8e2f3e95654588b10594.webp",
+    "static/media/brain_dead.webp": "/Shopping-Cart/static/media/brain_dead.2837a99c923c618f6821.webp",
+    "static/media/jordan4.webp": "/Shopping-Cart/static/media/jordan4.08e37c3682603018d7f4.webp",
+    "static/media/converse_chuck.webp": "/Shopping-Cart/static/media/converse_chuck.4d3606c9458be9bd6ad5.webp",
+    "static/media/vans_og.webp": "/Shopping-Cart/static/media/vans_og.a1c13bde023483e7826a.webp",
+    "static/media/lego.webp": "/Shopping-Cart/static/media/lego.381bc738e66bf6f5fdf3.webp",
+    "static/media/airmax.webp": "/Shopping-Cart/static/media/airmax.5c995fbac273960249b6.webp",
+    "static/media/stan.webp": "/Shopping-Cart/static/media/stan.4ce0119dfaf67f435f01.webp",
+    "static/media/nb550.webp": "/Shopping-Cart/static/media/nb550.84879d1199bd14731fb2.webp",
+    "static/media/classic.webp": "/Shopping-Cart/static/media/classic.9ce5d3155156c940b8f1.webp",
+    "static/media/fuelcore.webp": "/Shopping-Cart/static/media/fuelcore.862d945f4875f5509316.webp",
+    "static/media/champ.webp": "/Shopping-Cart/static/media/champ.bc844297b6bb67c2dfed.webp",
+    "static/media/reebok.webp": "/Shopping-Cart/static/media/reebok.a4fdf4428380222199c8.webp",
+    "static/media/cloudfoam.webp": "/Shopping-Cart/static/media/cloudfoam.d18553bef6cf906828b6.webp",
+    "static/media/camper.webp": "/Shopping-Cart/static/media/camper.044b54e599813714c8e3.webp",
+    "index.html": "/Shopping-Cart/index.html",
+    "main.aaf6190c.css.map": "/Shopping-Cart/static/css/main.aaf6190c.css.map",
+    "main.3d749f48.js.map": "/Shopping-Cart/static/js/main.3d749f48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf6190c.css",
+    "static/js/main.3d749f48.js"
+  ]
+}
