@@ -1,7 +1,6 @@
 import AirMax from "../assets/Kids-Shoes/airmax.webp";
 import Camper from "../assets/Kids-Shoes/camper.webp";
 import Champ from "../assets/Kids-Shoes/champ.webp";
-import Clasic from "../assets/Kids-Shoes/classic.webp";
 import Cloud from "../assets/Kids-Shoes/cloudfoam.webp";
 import FuelCore from "../assets/Kids-Shoes/fuelcore.webp";
 import Lego from "../assets/Kids-Shoes/lego.webp";
