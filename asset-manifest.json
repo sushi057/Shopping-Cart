@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopping-Cart/static/css/main.aaf6190c.css",
-    "main.js": "/Shopping-Cart/static/js/main.3d749f48.js",
+    "main.js": "/Shopping-Cart/static/js/main.3a21f97e.js",
     "static/media/home_shoes.jpg": "/Shopping-Cart/static/media/home_shoes.124a9df229cc25eec4df.jpg",
     "static/media/logo.png": "/Shopping-Cart/static/media/logo.86b2917983d590867212.png",
     "static/media/asics.webp": "/Shopping-Cart/static/media/asics.a797659021c999b3da6d.webp",
@@ -22,7 +22,6 @@
     "static/media/airmax.webp": "/Shopping-Cart/static/media/airmax.5c995fbac273960249b6.webp",
     "static/media/stan.webp": "/Shopping-Cart/static/media/stan.4ce0119dfaf67f435f01.webp",
     "static/media/nb550.webp": "/Shopping-Cart/static/media/nb550.84879d1199bd14731fb2.webp",
-    "static/media/classic.webp": "/Shopping-Cart/static/media/classic.9ce5d3155156c940b8f1.webp",
     "static/media/fuelcore.webp": "/Shopping-Cart/static/media/fuelcore.862d945f4875f5509316.webp",
     "static/media/champ.webp": "/Shopping-Cart/static/media/champ.bc844297b6bb67c2dfed.webp",
     "static/media/reebok.webp": "/Shopping-Cart/static/media/reebok.a4fdf4428380222199c8.webp",
@@ -30,10 +29,10 @@
     "static/media/camper.webp": "/Shopping-Cart/static/media/camper.044b54e599813714c8e3.webp",
     "index.html": "/Shopping-Cart/index.html",
     "main.aaf6190c.css.map": "/Shopping-Cart/static/css/main.aaf6190c.css.map",
-    "main.3d749f48.js.map": "/Shopping-Cart/static/js/main.3d749f48.js.map"
+    "main.3a21f97e.js.map": "/Shopping-Cart/static/js/main.3a21f97e.js.map"
   },
   "entrypoints": [
     "static/css/main.aaf6190c.css",
-    "static/js/main.3d749f48.js"
+    "static/js/main.3a21f97e.js"
   ]
 }
